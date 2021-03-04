@@ -3,7 +3,7 @@ SQL Server C# .NET
 
 learning SQL server on VScode with .NET using C# in a console application.
 
-tutorial: https://qawithexperts.com/article/c-sharp/connect-to-sql-server-in-c-example-using-console-application/178
+Tutorial 1: https://qawithexperts.com/article/c-sharp/connect-to-sql-server-in-c-example-using-console-application/178
 
 You can also create a connection string in another file like XML, to store connection strings in an external configuration file, create a separate file that contains only the connectionStrings section. Do not include any additional elements, sections, or attributes. This example shows the syntax for an external configuration file.
 
@@ -76,3 +76,8 @@ Trusted connection from CE device
     User ID=myDomain\UserName;Password=Password;
 
 That's it, there can be more ways of connection strings but these are widely used one.
+
+
+Tutorial 2: https://sqlchoice.azurewebsites.net/en-us/sql-server/developer-get-started/csharp/win/step/2.html
+
+
