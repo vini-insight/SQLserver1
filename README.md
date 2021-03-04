@@ -23,10 +23,10 @@ In the main application configuration file, you use the configSource attribute t
 
 Properties of the connection string
 
-Property                            Description
-Name                                The name of the connection string. Maps to the name attribute.
-ProviderName	                    The fully qualified provider name. Maps to the providerName attribute.
-ConnectionString	                The connection string. Maps to the connectionString attribute.
+Property --> Description
+Name --> The name of the connection string. Maps to the name attribute.
+ProviderName --> The fully qualified provider name. Maps to the providerName attribute.
+ConnectionString --> The connection string. Maps to the connectionString attribute.
 
 Here are possible connection string to connect to the database in C#
 
