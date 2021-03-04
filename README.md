@@ -3,6 +3,11 @@ SQL Server C# .NET
 
 learning SQL server on VScode with .NET using C# in a console application.
 
+Dependencies:
+
+    dotnet add package System.Data.SqlClient --version 4.8.2
+    
+
 Tutorial 1: https://qawithexperts.com/article/c-sharp/connect-to-sql-server-in-c-example-using-console-application/178
 
 You can also create a connection string in another file like XML, to store connection strings in an external configuration file, create a separate file that contains only the connectionStrings section. Do not include any additional elements, sections, or attributes. This example shows the syntax for an external configuration file.
